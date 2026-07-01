@@ -105,8 +105,17 @@ This repository is mainly for personal learning. However, suggestions, improveme
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranilmahale/Leetcode/tree/master/0001-two-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranilmahale/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranilmahale/Leetcode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranilmahale/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranilmahale/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
