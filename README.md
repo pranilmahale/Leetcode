@@ -94,3 +94,15 @@ This repository is mainly for personal learning. However, suggestions, improveme
 ---
 
 > **"Consistency beats intensity. One problem a day keeps the interviewer away."** 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pranilmahale/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pranilmahale/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
