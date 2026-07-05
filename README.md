@@ -101,6 +101,7 @@ This repository is mainly for personal learning. However, suggestions, improveme
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranilmahale/Leetcode/tree/master/0001-two-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/pranilmahale/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranilmahale/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranilmahale/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pranilmahale/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -145,10 +146,12 @@ This repository is mainly for personal learning. However, suggestions, improveme
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/pranilmahale/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranilmahale/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/pranilmahale/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/pranilmahale/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
